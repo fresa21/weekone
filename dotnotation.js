@@ -1,4 +1,44 @@
-/*console.log("This is a message");*/
+//ACTIVITY
+
+/*console.log("    |     |    ")
+console.log("    |     |    ")
+console.log("    |     |    ")
+console.log("---------------")
+console.log("    |     |    ")
+console.log("    |     |    ")
+console.log("    |     |    ")
+console.log("---------------")
+console.log("    |     |    ")
+console.log("    |     |    ")
+console.log("    |     |    ")*/
+
+// example below did not work and the code ran like below
+/*console.log( 
+    "   |     |    ",
+    "   |     |    ",
+    "   |     |    "
+)
+console.log("--------------")
+console.log( 
+    "   |     |    ",
+    "   |     |    ",
+    "   |     |    "
+)
+console.log("--------------")
+console.log( 
+    "   |     |    ",
+    "   |     |    ",
+    "   |     |    "
+)*/
+//the result
+//|     |        |     |        |     |
+//--------------
+//   |     |        |     |        |     |
+//--------------
+//   |     |        |     |        |     |
+
+
+//SPOILER
 
 /*Declaring our Array 
  const vertical =[

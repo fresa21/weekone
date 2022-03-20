@@ -1,4 +1,5 @@
 //array sintax
+
 /*let coffeeOrder = [
     "Alex - cortado",
     "Ben - cortado",
@@ -14,6 +15,8 @@ console.log(coffeeOrder[2]); //response whatevers new*/
 coffeeOrder.pop(); takes off the array*/
 /*
 
+
+//-------------------------------------------------------------------------
 let = favSongs [
     "walking on sunshine",
     "Atomic"
@@ -29,6 +32,9 @@ console.log(faveSongs);
 faveSongs.unshift("Joey", "Neon Heart");
 console.log(faveSongs);*/
 
+
+//--------------------------------------------------------------------------
+
 /*let favDrinks = [
     "Coke",
     "fanta",
@@ -39,7 +45,7 @@ console.log(faveSongs);*/
 for (let i = 0; i < favDrinks.length; i++){
     console.log(favDrinks)
 }
-
+//-------------------------------------------------------------
 let multiplesTwo = [];
 for(let i = 0; i < 20; i++){
     if (i % 2 == 0){
@@ -48,7 +54,7 @@ for(let i = 0; i < 20; i++){
 }
 console.group("Numbers divisible by 2 between 0 and 20 are: ${multiplesTwo}");*/
 
-
+//-------------------------------------------------------------------
 /*let fruit = [
     "apple",
     "banana",
@@ -195,7 +201,7 @@ let randomNum6 = (Math.floor(Math.random * 30));
             }
         }
     }*/
-
+//---------------------------------------------------------------------------------------
     // DON'T FORGET TO UNCOMMENT / COMMENT WHERE NEEDED IN ORDER TO RUN PROPERLY :) 
 
 // // LOOPS WORK
